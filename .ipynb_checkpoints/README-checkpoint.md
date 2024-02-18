@@ -1,0 +1,2 @@
+# RNN-Learning
+RNN trainning 
